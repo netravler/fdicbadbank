@@ -1,0 +1,12 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\bin\Debug\FDIC_Bad_Banks.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\bin\Debug\FDIC_Bad_Banks.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.csproj.GenerateResource.Cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\bin\Debug\FDIC_Bad_Banks.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\bin\Debug\FDIC_Bad_Banks.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\FDIC_Bad_Banks\FDIC_Bad_Banks\obj\x86\Debug\FDIC_Bad_Banks.csprojResolveAssemblyReference.cache
